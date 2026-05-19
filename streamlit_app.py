@@ -11,7 +11,7 @@ st.markdown('''
     :red[Streamlit] :orange[can] :green[write] :blue[text] :violet[in]
     :gray[pretty] :rainbow[colors] and :blue-background[highlight] text.''')
 st.markdown("Here's a bouquet &mdash;\
-            :car::cherry_blossom::rose::hibiscus::sunflower::blossom:")
+            :tulip::cherry_blossom::rose::hibiscus::sunflower::blossom:")
 
 multi = '''If you end a line with two spaces,
 a soft return is used for the next line.
