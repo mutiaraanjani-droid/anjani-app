@@ -32,7 +32,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Kalkulator Sederhana")
 
-st.title("🧮 Kalkulator Sederhana")
+st.title("🧮 Kalkulator Sederhana🎈🎈🎈🎈")
 
 # Input angka
 angka1 = st.number_input("Masukkan angka pertama", value=0.0)
